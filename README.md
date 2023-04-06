@@ -13,4 +13,4 @@ a password generator was required which will return a random character generated
 
 ## Website Deployment
 
-<!-- Link: [Horiseon](https://mrgnoblennon.github.io/Homework-1/) -->
+Link: [Password Generator](https://mrgnoblennon.github.io/Random-Password-Generator/)
