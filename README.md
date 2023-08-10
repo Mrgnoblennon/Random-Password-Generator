@@ -1,4 +1,4 @@
-# Assignment 3 - Password Generator
+# Password Generator
 
 Utilize JavaScript inconjuction with HTML.
 
